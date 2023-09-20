@@ -8,8 +8,10 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Tech stack: HTML, JavaScript
 
-### Deployment: https://shipragupta16.github.io/leaflet-challenge/
+### Deployment link: 
+https://shipragupta16.github.io/leaflet-challenge/
 
+<hr>
 
 ### Instructions
 The instructions for this activity are broken into two parts:
@@ -32,6 +34,7 @@ The first task is to visualize an earthquake dataset. Complete the following ste
 
 	Include popups that provide additional information about the earthquake when its associated marker is clicked. Create a legend that will provide context for your map data.
 
+<hr>
 
 ### Part 2: Gather and Plot More Data
 
