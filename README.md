@@ -33,6 +33,8 @@ The first task is to visualize an earthquake dataset. Complete the following ste
 
 	Include popups that provide additional information about the earthquake when its associated marker is clicked. Create a legend that will provide context for your map data.
 
+![Screenshot 2023-09-19 at 10 50 55 PM](https://github.com/ShipraGupta16/leaflet-challenge/assets/25715747/e620f25b-dfdc-449a-8932-fa11d469bc16)
+
 
 ### Part 2: Gather and Plot More Data
 
@@ -48,5 +50,7 @@ c) Put each dataset into separate overlays that can be turned on and off indepen
 
 d) Add layer controls to your map.
 
+
+![Screenshot 2023-09-19 at 10 51 22 PM](https://github.com/ShipraGupta16/leaflet-challenge/assets/25715747/2f6b4c0f-e4f6-4c81-aa92-fc1a8a0c7b31)
 
 
