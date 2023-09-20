@@ -8,7 +8,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Tech stack: HTML, JavaScript
 
-### Deployment: 
+### Deployment: https://shipragupta16.github.io/leaflet-challenge/
 
 
 ### Instructions
